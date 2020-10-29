@@ -43,4 +43,3 @@ $ curl  http://xxxx:prot/img-data-service/create-dataset?params
 #### 项目费用：有什么功能，用什么功能，远程安装完成。
 #### 维护费用：
 #### 定制开发费用：
-#### 长期合作费用：
