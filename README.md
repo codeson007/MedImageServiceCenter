@@ -20,8 +20,8 @@ python 2.7 +
 依赖包  
 flask等包  
 # 3 使用方法
-### 仅支持命令行操作
-### 不同的语言（python\R\java\matlab\go）可以用http协议调用方式操作具体的API
+### 命令行操作方式
+### coder方式，不同的语言（python\R\java\matlab\go）可以用http协议调用方式操作具体的API
 ### 下面是命令行调用方式  （常见的dicom操作都包含在里面，哦哦，噢噢） 
 $ curl  http://xxxx:prot/img-data-service/send-dicom?parmas...  
 $ curl  http://xxxx:prot/img-data-service/get-dicom?parmas...  
