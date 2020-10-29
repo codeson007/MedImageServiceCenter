@@ -37,3 +37,10 @@ $ curl  http://xxxx:prot/img-data-service/get-dicom?parmas...
 建立简单的没有可视化功能的PACS功能
 $ curl  http://xxxx:prot/img-data-service/create-dataset?params
 等。。。。。
+# 疫情影响，个人经济状况不佳，请支援一下中年危机的程序员
+这个项目，我个人准备有偿服务，长期维护。
+### 费用收取结构：
+#### 项目费用：有什么功能，用什么功能，远程安装完成。
+#### 维护费用：
+#### 定制开发费用：
+#### 长期合作费用：
