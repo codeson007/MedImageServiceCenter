@@ -54,9 +54,9 @@ $ curl  http://xxxx:prot/img-data-service/copy-dataset-patients-to-newpath?param
 # 
 
 
-### 界面目前仅在考虑中，暂不开发...
+### 界面目前仅在考虑中，在等待ing...
 ### 勿恼~~
-###
+### email私聊呀~
 ###
 #
 ### 疫情影响，
