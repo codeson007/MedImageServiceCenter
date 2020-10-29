@@ -38,8 +38,8 @@ $ curl  http://xxxx:prot/img-data-service/get-dicom?parmas...
 $ curl  http://xxxx:prot/img-data-service/create-dataset?params
 等。。。。。
 ### 疫情影响，个人经济状况不佳
-### 这个项目，我个人准备有偿服务，长期维护。
-### 费用收取结构：
-#### 项目费用：有什么功能，用什么功能，远程安装完成。
-#### 维护费用：
-#### 定制开发费用：
+### 这个项目，我个人准备有偿服务，费用收取结构：
+#### 1、项目费用
+#### 2、维护费用：
+#### 3、定制开发费用：
+#### 联系方式：mycoder_son@163.com
