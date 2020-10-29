@@ -20,7 +20,9 @@ python 2.7 +
 依赖包  
 flask等包  
 # 3 使用方法
-命令行中输入  
+### 仅支持命令行操作
+### 不同的语言（python\R\java\matlab\go）可以用http协议调用方式操作具体的API
+### 下面是命令行调用方式  
 $ curl  http://xxxx:prot/img-data-service/send-dicom?parmas...  
 $ curl  http://xxxx:prot/img-data-service/get-dicom?parmas...  
 $ curl  http://xxxx:prot/img-data-service/start-receiver-dicom?parmas...  
@@ -40,9 +42,12 @@ $ curl  http://xxxx:prot/img-data-service/start-receiver-dicom?parmas...
 $ curl  http://xxxx:prot/img-data-service/create-dataset?params  
 $ curl  http://xxxx:prot/img-data-service/drop-dataset?params  
 $ curl  http://xxxx:prot/img-data-service/up-dataset?params  
+$ curl  http://xxxx:prot/img-data-service/get-dataset-patients-location-csv?params  
+$ curl  http://xxxx:prot/img-data-service/copy-dataset-patients-to-newpath?params   
 等等等  
-  
-  
+
+# 4 界面目前仅在考虑中，暂不开发...
+### 勿恼~~
 #
 ### 疫情影响，个人经济状况不佳
 ### 这个项目，我个人准备有偿服务，费用收取结构：
