@@ -54,10 +54,9 @@ $ curl  http://xxxx:prot/img-data-service/copy-dataset-patients-to-newpath?param
 # 
 
 
-### 界面目前仅在考虑中，在等待ing...
-### 勿恼~~
-### email私聊呀~
-###
+### 期待界面的朋友...
+### 如果对您现有工作有帮助，  email私聊呀~
+###  email私聊呀~   
 #
 ### 疫情影响，
 ### 这个项目，我个人准备有偿服务，费用收取结构：
