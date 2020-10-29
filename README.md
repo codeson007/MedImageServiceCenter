@@ -23,8 +23,12 @@ flask等包
 命令行中输入
 $ curl  http://xxxx:prot/img-data-service/send-dicom?parmas...
 $ curl  http://xxxx:prot/img-data-service/get-dicom?parmas...
-常见的dicom操作都包含在
+常见的dicom操作都包含在里面
+##
 ![image](https://github.com/codeson007/MedImageServiceCenter/blob/main/public/image/send.PNG)
+![image](https://github.com/codeson007/MedImageServiceCenter/blob/main/public/image/pre-send.png)
+![image](https://github.com/codeson007/MedImageServiceCenter/blob/main/public/image/pos-send.png)
+
 
 ## 数据集操作
 创建数据集，并未数据授予具体权限
